@@ -2,4 +2,4 @@
 
 This is a beginner level web scraping project.
 
-This project focuses on scraping customer reviews of social media applications with a look a instagram and tiktok.
+This project focuses on scraping customer reviews of mobile banking applications on google play store.
